@@ -8,6 +8,8 @@ The button is JavaScript programmable, using the [Espruino](https://espruino.com
 
 The button runs off a single CR2032 battery, and can run for several months in standby mode. It was originally created as part of my [In-Real-Life Chrome T-Rex Game](https://medium.com/@urish/i-saw-a-dinosaur-or-how-i-built-a-real-life-version-of-chrome-t-rex-game-92175f6cad2c) project.
 
+See this [example plunkr](https://plnkr.co/edit/uwBsIR2xN8AFZZyoSz7F) for interfacing with the button using Web Bluetooth.
+
 ## Parts
 
 | Part Name | Price | Comments |
